@@ -19,5 +19,6 @@ class MainTest {
 
         Mockito.doReturn(100).when(spiedList).size();
         assertEquals(100, spiedList.size());
+        dsds
     }
 }
